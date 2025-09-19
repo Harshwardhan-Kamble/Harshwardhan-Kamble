@@ -1,66 +1,66 @@
-# Hi there, I'm Harshwardhan Kamble 👋
+# 👋 Hi, I’m Harshwardhan Kamble  
 
-Welcome to my GitHub profile! I'm a 3rd-year BE (Computer Science) student at Pune Institute of Computer Technology (PICT), Pune, passionate about full-stack development, machine learning, and building scalable, secure applications.
-
-## 🔭 What I'm Currently Working On
-
-- **Software Developer Intern at Ekalipi Technologies Pvt Ltd** (Apr 2025 - Jul 2025)\
-  Assisting in developing new end-user solutions, enhancing and testing existing code, working in a hybrid setup.
-
-## 🌱 What I'm Learning
-
-- Advanced Backend Development with Next.js and Node.js
-- Cloud Technologies & Deployment (Docker, NGINX, GitHub Actions)
-- Natural Language Processing (NLP) and Machine Learning (ML)
-
-## 💼 Featured Projects
-
-🔹 **Authentication System | Next.js Fullstack App**\
-🔐 Built a comprehensive authentication platform with secure two-step verification (email OTPs), improving security by 50%.\
-Focused on clean UX/UI for better user onboarding.
-
-🔹 **Movie Recommendation System | Flask + ML**\
-🎬 Personalized movie suggestions using metadata analysis (genre, director, actors).\
-Achieved top-5 recommendations with Content-Based Filtering using TF-IDF and Cosine Similarity.
-
-🔹 **Text Summarization | AI/ML & NLP Project**\
-📝 Designed a tool using BERT Transformers and NLP techniques like stemming, tokenization for 90% accurate summarization of large texts.
-
-🔹 **Netflix Clone | Frontend Project**\
-📺 Built a pixel-perfect, responsive Netflix homepage clone using HTML, CSS, and JavaScript, enhancing responsiveness and user interaction.
-
-## 🛠️ Skills & Technologies
-
-**Backend Development:**\
-Next.js, Node.js, Express.js, Flask
-
-**Frontend Development:**\
-React, TypeScript, HTML, CSS, JavaScript
-
-**Databases & DevOps:**\
-MySQL, MongoDB (Mongoose), Docker, NGINX
-
-**Tools & Concepts:**\
-Git, GitHub, GitHub Actions, PM2
-
-**Core CS Subjects:**\
-Data Structures & Algorithms (DSA), Operating Systems (OS), Object-Oriented Programming (OOP), DBMS
-
-**Soft Skills:**\
-Problem-solving, Communication, Time Management, Teamwork
-
-## 📜 Certifications & Achievements
-
-🏆 Google AI-ML Virtual Internship (Certified)\
-🏆 Certified in Full-Stack Web Development \
-🏆 Completed Advanced Data Structures and Algorithms Course
-
-## 📫 Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/harshwardhan-kamble-027b92253/) | [GitHub](https://github.com/Harshwardhan-Kamble) | [harshwardhankamble2004@gmail.com](mailto\:harshwardhankamble2004@gmail.com)
+🎓 Computer Science Undergraduate @ PICT Pune (2022–2026)  
+💻 Passionate about **Full-Stack Development, AI/ML, and Scalable Systems**  
+🚀 Currently exploring **SaaS development, Cloud Deployments, and DevOps**  
 
 ---
 
-📌 *"I love building tech that makes life easier and smarter. Let's create something amazing together!"* 🚀
+## 🛠️ Tech Stack
 
+- **Languages:** C++, Python, JavaScript, TypeScript  
+- **Frameworks & Libraries:** Django, React, Redux Toolkit, Node.js, Express.js, TensorFlow, Keras, NLTK  
+- **Databases:** MySQL, MongoDB, PostgreSQL, Supabase  
+- **DevOps & Tools:** Git/GitHub, Docker, REST APIs, Cloudinary  
 
+---
+
+## 💼 Experience
+
+- **Software Engineering Intern – GoBasera (MetaboliQ Technologies Pvt Ltd)**  
+  _Sept 2025 – Present_  
+  - Contributing to SaaS platform development (NestJS, React, PostgreSQL, Docker).  
+  - Working directly with Founder & CEO for product engineering exposure.  
+
+- **Frontend & Embedded Systems Intern – Ekalipi Technologies Pvt Ltd**  
+  _Apr 2025 – Jul 2025_  
+  - Enhanced web app interface with **React + Redux**.  
+  - Optimized firmware logic in C++ for IoT-based **Smart Ring**.  
+  - Implemented multilingual TTS features.  
+
+---
+
+## 📌 Projects
+
+### 🔹 [ProjectIQ – AI-Powered Project Planner](https://github.com/harshwardhan-kamble/projectiq)  
+**Tech:** React, Redux, Node.js, MongoDB, GenAI  
+- Auto-generates & manages project plans with JWT authentication.  
+- Scalable MongoDB schema design & responsive onboarding flow.  
+
+### 🔹 [FlowTune – Ad-Free Music Streaming](https://flowtune.vercel.app)  
+**Tech:** React (Vite), Supabase, Google APIs  
+- Music streaming with optimized API calls & Redux state management.  
+- Designed for cross-device compatibility & performance.  
+
+### 🔹 [Tweet Sentiment Analyzer](https://github.com/harshwardhan-kamble/tweet-sentiment-analyzer)  
+**Tech:** Django, TensorFlow/Keras, NLTK, REST API  
+- Classifies tweets as Positive, Negative, or Neutral.  
+- Built REST APIs & integrated deep learning sentiment model.  
+
+---
+
+## 🏆 Achievements
+
+- **Google AI-ML Virtual Internship (2023):** Hands-on with ML concepts & real-world AI apps.  
+- **PICT Impetus and Concepts (2023):** Volunteered at flagship technical fest, facilitated judge–participant coordination.  
+
+---
+
+## 📫 Connect with Me  
+
+- 📧 Email: [harshwardhankamble2004@gmail.com](mailto:harshwardhankamble2004@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/harshwardhan-kamble](https://linkedin.com/in/harshwardhan-kamble)  
+- 💻 GitHub: [github.com/harshwardhan-kamble](https://github.com/harshwardhan-kamble)  
+
+---
+⭐️ _“Building scalable solutions, one commit at a time.”_  

@@ -1,189 +1,224 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Harshwardhan%20Kamble&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Backend%20Engineer%20%E2%80%A2%20AI%20%2F%20RAG%20Systems%20%E2%80%A2%20Full-Stack&descAlignY=65&descSize=18&animation=twinkling" width="100%"/>
+
 <div align="center">
-  
-# 👋 Hey there, I'm Harshwardhan Kamble
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Engineer;Full-Stack+Developer;Building+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+production-ready+APIs+%26+RAG+pipelines+%E2%9A%A1;FastAPI+%C2%B7+Node.js+%C2%B7+LLMs+%C2%B7+Vector+Search+%C2%B7+Docker;Patent+filed+%F0%9F%93%84+%7C+Hackathon+finalist+%F0%9F%8F%85+%7C+200%2B+DSA+%F0%9F%A7%A0;Open+to+Full-time+SDE+roles+%E2%80%94+July+2026" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshwardhan-kamble)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshwardhan-kamble)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshwardhankamble2004@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harshwardhan-kamble)
+<br/><br/>
+
+<a href="https://linkedin.com/in/harshwardhan-kamble">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Harshwardhan-Kamble">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:harshwardhankamble2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/harshwardhan-kamble">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Harshwardhan-Kamble&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshwardhan-Kamble&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="38%" />
+
+### 👨‍💻 About Me
 
 ```typescript
 const harshwardhan = {
-    location: "Pune, Maharashtra, India",
-    education: "B.E. Computer Science @ PICT Pune (2022-2026)",
-    currentFocus: ["Backend Development", "System Design", "Cloud Architecture"],
-    lookingFor: "Full-time SDE opportunities starting July 2026",
-    funFact: "I build scalable solutions, one commit at a time ⚡"
+  location : "Pune, Maharashtra, India 🇮🇳",
+  education: "B.E. CS @ PICT Pune · 2022–2026",
+  focus    : ["Backend", "AI/RAG", "System Design"],
+  patent   : "Filed · GenAI Interview Simulations 📄",
+  available: "Full-time SDE · July 2026 🚀",
 };
 ```
 
-🎯 **Backend-focused Software Engineer** with hands-on experience building production-ready APIs, implementing secure authentication systems, and optimizing backend performance. Currently diving deep into **scalable system architectures** and **cloud deployments**.
+- 🔭 Building **RAG pipelines** & **LLM failover systems**
+- 🌱 Exploring **Kubernetes**, **AWS**, **microservices**
+- ⚡ I care about systems that are fast, reliable, and maintainable
+- 🏅 Hackathon finalist · 200+ DSA problems solved
+
+<br clear="right"/>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Work Experience
 
-### 🏢 GoBasera (MetaboliQ Technologies Pvt Ltd)
-**Software Engineering Intern – Founder's Office** | *Sept 2025 – Nov 2025* | Remote
+<table>
+<tr>
+<td width="60px" align="center">🏢</td>
+<td>
 
-- 🚀 Built cross-platform onboarding script reducing setup time to **< 15 minutes**
-- 🔐 Implemented mobile + OTP authentication with Firebase
-- 💻 Developed features using **NestJS (TypeScript)**, React, PostgreSQL, Docker
-- 👨‍💼 Direct mentorship from Founder & CEO (**20+ hours/week**)
+**GoBasera · Software Engineering Intern** — *Remote · Sept – Nov 2025*
 
-<details>
-<summary><b>🔍 View More Details</b></summary>
+- Built a **cross-platform onboarding script** cutting dev setup to **< 15 minutes** (Linux / Windows / macOS)
+- Integrated **mobile + OTP authentication** via Firebase, replacing email-only login
+- Shipped production features with **NestJS · React · PostgreSQL · Docker**
+- **20+ hrs/week** direct mentorship from the Founder & CEO
 
-**Key Achievements:**
-- Streamlined developer onboarding across Linux, Windows, and macOS
-- Enhanced security by replacing email-only login with multi-factor authentication
-- Contributed to production-grade SaaS platform architecture
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🗂 DocFlow — RAG Document Q&A
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4154?style=flat-square&logo=databricks&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+End-to-end RAG pipeline with multi-model LLM failover
+
+- 📄 Processes 20-page PDFs → **~60 semantic chunks** in ~10s
+- 🛡️ **5-layer failover**: 4 Gemini models × 3 keys → OpenAI fallback
+- 🔍 Cosine search on **384-dim vectors** · top-5 grounded chunks
+- 🔒 Session-isolated in-memory storage · zero data persistence
+
+</td>
+<td width="50%">
+
+### 🔗 Scalable URL Shortener
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Production-grade URL shortener with analytics
+
+- 🔢 **Base62 encoding** + PostgreSQL-backed storage
+- ⚡ **Redis caching** for optimized redirect performance
+- 📊 Analytics: click counts & access timestamps
+- 🐳 Fully **Dockerized** REST API architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 ProjectIQ — AI Project Planner
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GenAI](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+Auto-generate intelligent project plans with AI
+
+- 🔄 **3-stage AI pipeline**: intake → Gemini → structured output in **~10s**
+- 🧠 Prompt workflows → structured tasks & milestones
+- 🔐 JWT auth · MongoDB storage · Redux state management
+
+</td>
+<td width="50%">
+
+### 💬 Tweet Sentiment Analyzer
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square&logo=python&logoColor=white)
+
+Real-time NLP classification with confidence scores
+
+- 🎯 Classifies tweets: **Positive / Negative / Neutral**
+- 🔍 NLP preprocessing: NLTK + regex pipelines
+- 🧠 Deep learning model via TensorFlow/Keras
+- 📡 RESTful API with confidence score output
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+**Languages**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend & Frameworks
+**Backend & AI**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### Databases
+**Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4154?style=for-the-badge&logo=databricks&logoColor=white)
 
-### DevOps & Tools
+**DevOps & Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
-
-### 🔗 [Scalable URL Shortener with Analytics](https://github.com/harshwardhan-kamble)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-```
-✨ Production-grade URL shortening service with analytics
-```
-
-- 🎯 Base62 encoding with database-backed storage & HTTP 302 redirection
-- ⚡ Redis caching for optimized redirect performance
-- 📊 Analytics tracking (click count, timestamps)
-- 🐳 Fully Dockerized with REST API architecture
-
----
-
-### 🤖 [ProjectIQ - AI-Powered Project Planner](https://github.com/harshwardhan-kamble/projectiq)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AI](https://img.shields.io/badge/GenAI-FF6F00?style=flat-square&logo=openai&logoColor=white)
-
-```
-🚀 Auto-generate intelligent project plans with AI
-```
-
-- 🤖 GenAI-powered task suggestions & project planning
-- 🔐 Secure JWT authentication system
-- 💾 Structured MongoDB schema for scalable data storage
-- ⚡ Built in 2 weeks with Redux state management
-
----
-
-### 💬 [Tweet Sentiment Analyzer](https://github.com/harshwardhan-kamble/tweet-sentiment-analyzer)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square&logo=python&logoColor=white)
-
-```
-📈 Real-time sentiment classification with confidence scores
-```
-
-- 🎯 Classifies tweets: Positive, Negative, or Neutral
-- 🔍 NLP preprocessing with NLTK & regex
-- 📡 RESTful API with confidence score predictions
-- 🧠 Deep learning model using TensorFlow/Keras
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshwardhan-kamble&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshwardhan-kamble&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshwardhan-kamble&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Harshwardhan-Kamble&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshwardhan-Kamble&theme=github-dark-blue&hide_border=true" width="49%" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Milestones
-
-```diff
-+ 150+ Problems Solved on LeetCode & GeeksForGeeks
-+ Google AI-ML Virtual Internship (2023) - Practical ML Implementation
-+ Startup Experience: Direct Founder Mentorship (20+ hours/week)
-```
-
-🎯 **Focus Areas:** Data Structures, Algorithms, System Design, Optimized Solutions
-
----
-
-## 📈 What I'm Currently Working On
-
-- 🔭 Exploring **microservices architecture** and **event-driven systems**
-- 🌱 Learning **Kubernetes** and **AWS** for cloud deployments
-- 💡 Building **production-ready SaaS applications**
-- 📚 Deepening knowledge in **system design** and **scalability patterns**
-
----
-
-## 🤝 Let's Connect!
+## 🏆 Achievements
 
 <div align="center">
 
-💼 **Open to Full-time SDE opportunities starting July 2026**
+| 🏅 | Achievement |
+|:---:|---|
+| 📄 | **Patent Filed** — *Leveraging Generative AI for Realistic Interview Simulations* |
+| 🥇 | **DecodeX Hackathon Finalist** — NL Dalmia Synapse 2026 · Top team among 200+ |
+| 💡 | **200+ DSA Problems** solved on LeetCode & GeeksforGeeks |
+| 🎓 | **Google AI-ML Virtual Internship** (2023) — Practical ML implementation |
 
-📧 Drop me an email: [harshwardhankamble2004@gmail.com](mailto:harshwardhankamble2004@gmail.com)
-
-🔗 Connect on [LinkedIn](https://linkedin.com/in/harshwardhan-kamble) | Check my [GitHub](https://github.com/harshwardhan-kamble)
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=harshwardhan-kamble&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<div align="center">
 
-### ⭐️ *"Building scalable solutions, one commit at a time"* ⭐️
+### 💼 Available for Full-time SDE roles · July 2026
+
+**Let's build something great together.**
+
+[![Email](https://img.shields.io/badge/harshwardhankamble2004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshwardhankamble2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshwardhan-kamble)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
 
 </div>
